@@ -1,0 +1,2 @@
+The sound from the audio is transcribed into a text file when
+the program runs 
